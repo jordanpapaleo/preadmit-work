@@ -15,19 +15,20 @@ Units to complete:
 
 ## Unit 1:
 
+
 ### HTML part 1: Intro
 
-HTML is style language, not a logical one. So to start making an HTML page the only thing you have to understand is what a tag is and how to use it.
+HTML is style language, not a logical one. To start making an HTML page the only thing you have to understand is what a tag is and how to use it. The following steps will show you exactly what that means.
 
 ### HTML part 2: Tags
 
-A tag is any set of keywords surrounded by the less-than '<' and greater-than '>' symbols. Most of the time they are paired as an opening and closing tag as follows, the closing tag is slightly different, notice the preceding forward slash '/' to the tag name or keyword: `<html></html>`
+A tag is any set of keywords surrounded by the less-than '<' and greater-than '>' symbols. Most of the time they are paired as an opening and closing tag like so: `<html></html>` Notice the closing tag is slightly different, the preceding forward slash '/' to the tag name or keyword signifies a closing tag
 
 ### HTML part 3: index.html file
 
 - The `index.html` file is where the style languages are written in plain text
 - Open a text editor, macs can `CMD+Space` and type "TextEdit" and open that application
-- Lets add some text to this file in the form of tags and save it as `index.html`
+- Lets add some text to this file as well as some tags and save it as `index.html` so we can view it in the next part
 
 ### Browser part 1: Open index.html file
 
