@@ -28,13 +28,15 @@ A tag is any set of keywords surrounded by the less-than '<' and greater-than '>
 
 - The `index.html` file is where the style languages are written in plain text
 - Open a text editor, macs can `CMD+Space` and type "TextEdit" and open that application
-- Lets add some text to this file as well as some tags and save it as `index.html` so we can view it in the next part
+- Add some text to this file as well as some tags and save it as `index.html` so we can view it in the next part
+- When adding tags, anything JUST inside the `<html></html>` tags will not show up unless also in the `<body></body>` tag. More on that in `Part 4`
+- When saving this file the `.html` extention is necessary to tell the browser how to interpret the file
 
 ### Browser part 1: Open index.html file
 
-**Way 1:** CMD+Space -> "Terminal" -> $ "open /Users/myUserName/Desktop/index.html"
-**Way 2:** Open your favorite browser, select "open file" from the File menu in the apple menu bar, and navigate to the file and select "open"
-**Way 3:** Navigate to the file in Finder and double click
+- **Way 1:** CMD+Space -> type the following:  "Terminal" -> you'll be prompted with text and a '$'... after the dollar sign enter the following with the file path being where you saved the file: "open /Users/myUserName/Desktop/index.html"
+- **Way 2:** Open your favorite browser, select "open file" from the File menu in the apple menu bar, and navigate to the file and select "open"
+- **Way 3:** Navigate to the file in Finder and double click
 
 ### Browser part 2: Refresh The Page with Saved Changes
 
@@ -61,6 +63,7 @@ HTML documents must be outlined in a valid and proper way to do everything to do
 - The <img /> tag is a little different as it's a self closing tag, notice no closing tag. This can display an image either from the local host, or from a remote location.
 
 ```html
+<!-- Examples -->
 <img src="http://img.ur/images/me.jpg" />
 <img src="/Users/myUserName/Pictures/me.jpg" />
 ```
