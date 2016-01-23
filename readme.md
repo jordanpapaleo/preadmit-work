@@ -1,4 +1,4 @@
-#Pre-Admittion Work
+#Pre-Admission Work
 
 ## Build an About Me page
 This whole process shouldn't exceed 10 working hours... This gives us the best view into your capabilities. Some of this is going to require googling to find resources on the internet, and some of it will be available right here in the Units.
